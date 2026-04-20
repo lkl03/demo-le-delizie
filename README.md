@@ -1,2 +1,7 @@
-# demo-le-delizie
-Demo web para Le Delizie — diseñada por eterlab.
+# Le Delizie
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
